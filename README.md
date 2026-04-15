@@ -38,9 +38,6 @@ In this dataset:
 - each row represents a certification assessment  
 - companies can appear multiple times across different certification cycles
 
-
-## Why this matters for the analysis
-
 B Corp certification is designed to reflect social and environmental performance.
 
 However, it is not clear whether certification outcomes are driven purely by performance improvement, or whether structural factors such as company size, geography, or resources play a role.
